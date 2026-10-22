@@ -1,0 +1,9 @@
+# Local and generated files
+.DS_Store
+bin/
+obj/
+.vscode/
+.idea/
+.env
+.env.*
+*.log
